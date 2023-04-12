@@ -4,4 +4,4 @@
 **MYSQL** ,
 **EXCEL** ,
 **PYTHON** ,
-**POWER BI** ,
+**POWER BI** 
